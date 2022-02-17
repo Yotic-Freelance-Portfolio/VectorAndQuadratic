@@ -1,0 +1,15 @@
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\VectorAndQuadratic.exe
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\VectorAndQuadratic.deps.json
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\VectorAndQuadratic.runtimeconfig.json
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\VectorAndQuadratic.dll
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\ref\VectorAndQuadratic.dll
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\bin\Debug\net6.0\VectorAndQuadratic.pdb
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.csproj.AssemblyReference.cache
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.AssemblyInfoInputs.cache
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.AssemblyInfo.cs
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.csproj.CoreCompileInputs.cache
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.dll
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\ref\VectorAndQuadratic.dll
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.pdb
+F:\repos\VectorAndQuadratic\VectorAndQuadratic\obj\Debug\net6.0\VectorAndQuadratic.genruntimeconfig.cache
